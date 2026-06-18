@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sofoco de soledad
+
+This log tracks the cryptographic history and versioning for the song **Sofoco de soledad** (sofoco-de-soledad).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T07:11:54.224995 | `v1` | `b5c486b543e5e49aab66a64a0fb3cb9f935214b12c21bed1d6269476d40c0597` | `1f179633dc0250324604da22c47549712b637278d15bc71ba66b09f8ec5a21a4` | `2026-06-18_sofoco-de-soledad-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
