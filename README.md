@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sofoco-de-soledad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sofoco de soledad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sofoco-de-soledad/) |
+| **Get License** | [Get a Licensing Quote for Sofoco de soledad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sofoco-de-soledad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me tienes loco en medio de la disco, rompiendo la pista
+> Esa mirada tuya corta como espada, me saca de vista
+> Bailando en la sombra, quemando la noche, me robas la calma
+> Un sofoco de soledad que me quema profundo en el alma
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
